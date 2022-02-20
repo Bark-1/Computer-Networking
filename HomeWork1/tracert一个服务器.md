@@ -24,7 +24,7 @@
 
 ​		在电脑开始菜单中点击运行选项，或Win+R，在运行窗口中输入cmd，确定，进入命令控制台。
 
-![image-20220219100727160](C:\Users\Bark\AppData\Roaming\Typora\typora-user-images\image-20220219100727160.png)
+<img src="pictures/4.png">
 
 2. **使用tracert指令**
 
@@ -40,7 +40,7 @@
 
 ​		通过以上操作，可得到实验结果：
 
-![image-20220219101119410](C:\Users\Bark\AppData\Roaming\Typora\typora-user-images\image-20220219101119410.png)
+<img src="pictures/5.png">
 
 ​		通过本次实验，掌握了tracert的用法，学会了tracert一个服务器的方法步骤，也更加理解tracert命令。
 
